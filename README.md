@@ -1,5 +1,4 @@
-# trackhub-data-production
-Trackhub data production
+# Trackhub data production
 
 - From Kawaji-san lab, we get data and display them in Genome Browser+Trackhub:
   * cis-regulatory element regions
